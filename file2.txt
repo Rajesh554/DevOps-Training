@@ -1,0 +1,4 @@
+adding extra information to file2.txt
+Private cloud
+public cloud
+hybrid cloud
